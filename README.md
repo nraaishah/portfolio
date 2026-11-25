@@ -22,6 +22,8 @@ A final-year project that estimates residential property prices in Malaysia and 
 - Explore price patterns by location and compare similar properties.
 - Export an estimate as a PDF or JSON report.
 
+[Try the ValueSense live demo](https://valuesense-demo.onrender.com/predict)
+
 **Stack:** React, Vite, Python, FastAPI, scikit-learn, SHAP.
 
-The ValueSense live demo is being verified. For a walkthrough, contact me through the details on my CV.
+For a walkthrough, contact me through the details on my CV.
