@@ -10,6 +10,8 @@ A mobile app for residents of City of Elmina, Selangor. It uses an OpenStreetMap
 - Open the map and follow the route directions.
 - Record a barrier at a location and review it in My Reports.
 
+[Try the PulsePath AI live demo](https://pulsepath-ai-demo.onrender.com/)
+
 **Stack:** Expo, React Native, TypeScript, Node.js, Leaflet, OpenStreetMap.
 
 ## ValueSense · Explainable Malaysian house price prediction
@@ -22,4 +24,4 @@ A final-year project that estimates residential property prices in Malaysia and 
 
 **Stack:** React, Vite, Python, FastAPI, scikit-learn, SHAP.
 
-Public live demos are pending. For a walkthrough, contact me through the details on my CV.
+The ValueSense live demo is being verified. For a walkthrough, contact me through the details on my CV.
